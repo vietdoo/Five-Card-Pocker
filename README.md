@@ -1,9 +1,8 @@
 # MIDTERM PROJECT – POINTERS
 
 
-## I Project Content
 
-## I.1 Card shuffling & Dealing
+## 1 Card shuffling & Dealing
 
 Consider a standard deck of 52 cards, each of which is characterized by
 
@@ -36,7 +35,7 @@ Figure 1: The matrixdeckstores the shuffled cards.
     (Clubs, Eight)
     (Clubs, F our)
 
-### I.2 Card game: Five-card Poker
+### 2 Card game: Five-card Poker
 
 There are multiple players in a poker game. Cards are distributed circularly
 such that each player receives five cards.
@@ -159,51 +158,5 @@ three cards or not.
 game levels (easy, medium and hard)
 
 
-## II Regulations
-
-- This is a 2-person group project.
-- Deadline: 20h00 - 17/4/2020.
-- Your file submission must be namedStudent1’s ID_Student2’s ID.rar(.zip)
-    which is compressed from theStudent1’s ID_Student2’s IDfolder.
-    This folder includes:
-       - TheReport.pdffile. You can see the requirement contents of this
-          file in the section below.
-       - The finishedChecklist.xlsxfile.
-       - Sourcesub-folder that contains your source code (*.cpp, *.h). Any
-          other extensions submission must be declared and explained in your
-          report.
-- Plagiarism and Cheating will result in an "0" (zero) for the entire course
-    and will be subject to appropriate referral to the Management Board of
-    High-Quality Program for further action.
-
-## III Evaluation
-
-The project will be graded on your source code and report.
-
-### III.1 Source code(Total: 120 pts)
-
-- Complete the given functions, make sure that the function prototype is
-    correct.(110 pts)
-- Build a user menu and displays for the features fromII.1andII.2(
-    pts)
-
-### III.2 Report and Checklist(Total: 80 pts)
-
-- You should fulfill the checklist come within the document. (10pts)
-- The report should be in English.(10 pts)
-- The report must be presented clearly and logically. The length of your
-    report must not exceed 10 A4 pages.
-- Compulsory contents:
-    - Full name and Students’s ID of group’s members.
-
-
-- Explain briefly the idea of the given functions.
-- Flowchart of your program.
-- References.
-
-## References
-
-P.J. Deitel and H.M. Deitel.C how to Program: With an Introduction to C++.
-How to program series. Pearson, 2015. ISBN 9781292111087.
 
 
