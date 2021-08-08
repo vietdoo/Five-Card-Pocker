@@ -3,6 +3,7 @@
 
 
 ## 1 Card shuffling & Dealing
+![img](https://user-images.githubusercontent.com/64247567/128636266-469ab5b0-946a-46e9-9273-0d816b7b8a4e.JPG)
 
 Consider a standard deck of 52 cards, each of which is characterized by
 
@@ -26,9 +27,6 @@ char* faces[FACES] = {"Ace", "Two", "Three", "Four", "Five",
 "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen" "King"}
 
 
-```
-Figure 1: The matrixdeckstores the shuffled cards.
-```
 - Prints out the card following their orders (from 1 to 52), each of
     which is characterized by its(suit, f ace). For example,
     (Hearts, F our)
